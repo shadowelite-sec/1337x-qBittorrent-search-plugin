@@ -38,7 +38,7 @@ from helpers import retrieve_url, download_file
 from novaprinter import prettyPrinter
 
 
-LEETX_DOMAIN = "https://1337x.to"
+LEETX_DOMAIN = "https://1337x.wtf"
 
 
 class LeetxParser(HTMLParser):
